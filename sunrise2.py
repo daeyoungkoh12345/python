@@ -47,3 +47,7 @@ for x in range (100) :
   animate_sunrise(sun, "dark orange", "yellow", "dark blue", "deepskyblue")
 
 canvas.close()
+
+
+준이바보
+ㅇㅈ
