@@ -25,3 +25,6 @@ canvas.add(sun)
 
 
 animate_sunrise(sun)
+
+안시바보
+ㅇㅈ
